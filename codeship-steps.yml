@@ -1,0 +1,3 @@
+- name: tests
+  service: web
+  command: bin/ci phpunit
